@@ -41,3 +41,8 @@ PyCharm or VS Code – for writing and testing the Python code efficiently.
 🌐 Execution Environment
 Run locally using:
 streamlit run qr_app.py
+
+
+
+
+https://qr-code-generator-sqxtahcvf9zlj7whwgezix.streamlit.app/
